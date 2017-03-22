@@ -1,2 +1,4 @@
 name: James Godwin, Problem Solver
 markdown: kramdown
+gems:
+  - jekyll-sitemap
